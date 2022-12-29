@@ -77,4 +77,4 @@ function generateMarkdown(data) {
   - Email: ${data.email}`
 }
 
-export default generateMarkdown;
+module.exports = generateMarkdown;
