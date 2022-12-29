@@ -33,4 +33,5 @@ GitHub:
 https://github.com/courtneyajensen/README-Generator
 
 Screenshots:
-
+Develop\assets\Screenshot (3).png
+Develop\assets\Screenshot (4).png
